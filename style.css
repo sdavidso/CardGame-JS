@@ -1,7 +1,9 @@
+
 body {
     background-color: #b0c4de;
 }
 
-canvas{
-    background-color:black;
+canvas {
+	display : block;
+	margin : auto;
 }
